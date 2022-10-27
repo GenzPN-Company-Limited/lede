@@ -1,9 +1,9 @@
 src-git packages https://github.com/coolsnowwolf/packages
-src-git luci https://github.com/xiaowansm5/luci
+src-git luci https://github.com/coolsnowwolf/luci
 src-git routing https://github.com/coolsnowwolf/routing
 src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
 src-git genzpn https://github.com/GenzPN/GenzPN-packages
-src-git goldenorb https://github.com/ROOterDairyman/Goldenorb
+src-git rooter https://github.com/GenzPN-Company-Limited/Package-GenzPN
 src-git 3ginfo https://github.com/4IceG/luci-app-3ginfo
