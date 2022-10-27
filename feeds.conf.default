@@ -6,3 +6,4 @@ src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
 src-git genzpn https://github.com/GenzPN/GenzPN-packages
 src-git goldenorb https://github.com/ROOterDairyman/Goldenorb
+src-git 3ginfo https://github.com/4IceG/luci-app-3ginfo
