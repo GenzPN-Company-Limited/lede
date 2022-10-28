@@ -5,5 +5,4 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
 src-git genzpn https://github.com/GenzPN/GenzPN-packages
-src-git rooter https://github.com/GenzPN-Company-Limited/Package-GenzPN
 src-git modemfeed https://github.com/koshev-msk/modemfeed.git
