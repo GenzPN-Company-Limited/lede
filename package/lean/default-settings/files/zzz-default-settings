@@ -1,10 +1,10 @@
 #!/bin/sh
 
-uci set luci.main.lang=zh_cn
+uci set luci.main.lang=en
 uci commit luci
 
-uci set system.@system[0].timezone=CST-8
-uci set system.@system[0].zonename=Asia/Shanghai
+uci set system.@system[0].timezone=<+07>-7
+uci set system.@system[0].zonename=Asia/Ho Chi Minh
 uci commit system
 
 uci set fstab.@global[0].anon_mount=1
